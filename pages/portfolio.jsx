@@ -24,9 +24,9 @@ function Portfolio() {
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
                 <img
-                        src="/images/radu.at.jpg"
-                        className="portfolio-image"
-                        alt="Preview of https://radu.at"
+                  src="/images/radu.at.jpg"
+                  className="portfolio-image"
+                  alt="Preview of https://radu.at"
                 />
 
                 <Link href="https://radu.at">
@@ -38,9 +38,9 @@ function Portfolio() {
               </div>
               <div className="portfolio-item">
                 <img
-                        src="/images/wien.ro.jpg"
-                        className="portfolio-image"
-                        alt="Preview of https://radu.at"
+                  src="/images/wien.ro.jpg"
+                  className="portfolio-image"
+                  alt="Preview of https://radu.at"
                 />
                 <Link href="https://wien.ro">
                   <a target="_blank">
