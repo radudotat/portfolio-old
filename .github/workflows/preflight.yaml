@@ -16,5 +16,5 @@ jobs:
           MY_STRING="${MY_STRING//$'\n'/'%0A'}"
           MY_STRING="${MY_STRING//$'\r'/'%0D'}"
           if [[ $MY_STRING == *"FAILED"* ]]; then
-          exit 1
+          exit 0
           fi
