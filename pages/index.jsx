@@ -18,7 +18,9 @@ function Home() {
               Hi, my name is Radu aka radudotat
             </h1>
             <p className="description">
-              I'm a software developer with experience in old-school Synchronous programming moving forward into Web3, the Stateful Web & Realtime Applications.
+              I'm a software developer with experience in old-school Synchronous
+              programming moving forward into Web3, the Stateful Web & Realtime
+              Applications.
             </p>
 
             <Link href="/contact">
