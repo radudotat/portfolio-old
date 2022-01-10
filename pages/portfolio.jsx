@@ -18,21 +18,21 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              My current work with web components in reactive web:
             </p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" />
+                <img src="/images/radu.at.jpg" className="portfolio-image" />
 
-                <h4 className="portfolio-name">Chat App Exploration</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">https://radu.at</h4>
+                <div className="portfolio-category">Web Dev</div>
               </div>
               <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" />
+                <img src="/images/wien.ro.jpg" className="portfolio-image" />
 
-                <h4 className="portfolio-name">kajian App</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">https://wien.ro</h4>
+                <div className="portfolio-category">PWA</div>
               </div>
             </div>
           </div>

@@ -17,13 +17,10 @@ function Contact() {
             <h1 data-cy="pageTitle" className="title">
               Contact
             </h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
-            </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">Twitter: @radudotat</li>
+              <li className="contact-item">GitHub: /radudotat</li>
+              <li className="contact-item">https://call.radu.at/</li>
             </ul>
           </div>
         </div>
