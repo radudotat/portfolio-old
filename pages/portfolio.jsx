@@ -23,15 +23,30 @@ function Portfolio() {
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/images/radu.at.jpg" className="portfolio-image" />
+                <img
+                        src="/images/radu.at.jpg"
+                        className="portfolio-image"
+                        alt="Preview of https://radu.at"
+                />
 
-                <h4 className="portfolio-name">https://radu.at</h4>
-                <div className="portfolio-category">Web Dev</div>
+                <Link href="https://radu.at">
+                  <a target="_blank">
+                    <h4 className="portfolio-name">https://radu.at</h4>
+                  </a>
+                </Link>
+                <div className="portfolio-category">PWA</div>
               </div>
               <div className="portfolio-item">
-                <img src="/images/wien.ro.jpg" className="portfolio-image" />
-
-                <h4 className="portfolio-name">https://wien.ro</h4>
+                <img
+                        src="/images/wien.ro.jpg"
+                        className="portfolio-image"
+                        alt="Preview of https://radu.at"
+                />
+                <Link href="https://wien.ro">
+                  <a target="_blank">
+                    <h4 className="portfolio-name">https://wien.ro</h4>
+                  </a>
+                </Link>
                 <div className="portfolio-category">PWA</div>
               </div>
             </div>

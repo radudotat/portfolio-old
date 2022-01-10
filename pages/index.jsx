@@ -15,7 +15,7 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Hi, my name is Radu aka radudotat
+              Halo, saya Lutfhi Ramadhan
             </h1>
             <p className="description">
               I'm a software developer with experience in old-school Synchronous
